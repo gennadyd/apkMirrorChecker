@@ -1,0 +1,7 @@
+feedparser
+bs4
+html5lib
+requests
+mailjet_rest
+json_log_formatter
+argparse
